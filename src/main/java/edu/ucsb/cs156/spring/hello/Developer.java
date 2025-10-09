@@ -20,7 +20,7 @@ public class Developer {
         // You may use just the name that is used on <https://bit.ly/cs156-f25-teams>
         // i.e. your first name, or your first and initial of last name
 
-        return "Hauke";
+        return "HAUKE SEBASTIAN";
     }
 
     /**
@@ -41,12 +41,12 @@ public class Developer {
     public static Team getTeam() {
         // TODO: Change this to your team name
         Team team = new Team("f25-12");
-        team.addMember("Hauke");
-        team.addMember("Jayden");
-        team.addMember("Ben");
-        team.addMember("Josh");
-        team.addMember("Tej");
-        team.addMember("Alvin");
+        team.addMember("JOSHUA CHACKO");
+        team.addMember("ALVIN KEN");
+        team.addMember("HAUKE SEBASTIAN");
+        team.addMember("JAYDEN JUN KHAI");
+        team.addMember("BEN");
+        team.addMember("TEJ SRI");
         return team;
     }
 }
